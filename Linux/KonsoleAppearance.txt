@@ -1,0 +1,25 @@
+name { not0x1A4 }(
+	foreground { #bdc3c7; #bdc3c7; #bdc3c7 }
+	background { #232627; #232627; #232627 }
+	colour 1 { #121212; #121212; #121212 }
+	colour 2 { #2b4fff; #2b4fff; #2b4fff }
+	colour 3 { #ba5aff; #ba5aff; #ba5aff }
+	colour 4 { #5c78ff; #5c78ff; #5c78ff }
+	colour 5 { #5ac8ff; #5ac8ff; #5ac8ff }
+	colour 6 { #905aff; #905aff; #905aff }
+	colour 7 { #5ea2ff; #5ea2ff; #5ea2ff }
+	colour 8 { #685aff; #685aff; #685aff }
+)
+
+name { mars }(
+	foreground { #bdc3c7; #b3b9bc; #cad0d4 }
+	background { #232627; #202227; #2e3238 }
+	colour 1 { #ae7089; #e67c90; #e67c90 }
+	colour 2 { #453e4e; #cc6576; #cc6576 }
+	colour 3 { #696e81; #ae576a; #ae576a }
+	colour 4 { #194151; #fe7177; #fe7177 }
+	colour 5 { #f75f5a; #f75f5a; #f75f5a }
+	colour 6 { #66506a; #d23430; #d23430 }
+	colour 7 { #865a73; #d23430; #d23430 }
+	colour 8 { #ae7089; #fc5535; #fc5535 }
+)
