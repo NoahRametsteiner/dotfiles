@@ -43,8 +43,11 @@ sudo apt install ./copyq_7.0.0_Debian_10-1_amd64.deb -y
 wget https://github.com/Ulauncher/Ulauncher/releases/download/5.15.2/ulauncher_5.15.2_all.deb
 sudo apt install ./ulauncher_5.15.2_all.deb -y
 
+wget https://github.com/shiftkey/desktop/releases/download/release-3.1.7-linux1/GitHubDesktop-linux-3.1.7-linux1.deb
+sudo apt install ./GitHubDesktop-linux-3.1.7-linux1.deb -y
+
 wget https://repo.steampowered.com/steam/archive/precise/steam_latest.deb
-sudo apt install ./steam_latest.deb
+sudo apt install ./steam_latest.deb -y
 
 #Misc
 
